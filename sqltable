@@ -7,6 +7,6 @@ CREATE TABLE `notificacoes` (
 	PRIMARY KEY (`id`)
 )
 
-In `timestamp`Presets, put as CURRENT_TIMESTAMP and in Attributes put "on update CURRENT_TIMESTAMP
+In `timestamp`Presets, put as CURRENT_TIMESTAMP and in Attributes put "on update CURRENT_TIMESTAMP"
 
 and be happy ;)
