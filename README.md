@@ -1,6 +1,6 @@
 # longpolling-php
 <h3>Real time notification system with LongPolling using PHP</h3>
-<h4>Notification System 0.0.1</h4>
+<h4>Notification System 0.0.1 - Posted on 2020/01/02 - Last Update: 2020/01/02</h4>
 
 <b>1° - First, take sql and run it;</b><br>
 <b>2° - Then download the 3 files and put them in a folder;</b><br>
