@@ -1,4 +1,5 @@
 <?php
+    // Created by Lucas
     $timestart = time(); // tempo que inicia o codigo
     $pdo = new PDO('mysql:host=localhost;dbname=testes', 'root', '');
 
