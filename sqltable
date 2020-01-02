@@ -1,0 +1,12 @@
+SQL:
+
+CREATE TABLE `notificacoes` (
+	`id` INT(11) NOT NULL AUTO_INCREMENT,
+	`notificacao` VARCHAR(200) NOT NULL,
+	`timestamp` TIMESTAMP NOT NULL DEFAULT NULL,
+	PRIMARY KEY (`id`)
+)
+
+In `timestamp`Presets, put as CURRENT_TIMESTAMP and in Attributes put "on update CURRENT_TIMESTAMP
+
+and be happy ;)
